@@ -1,0 +1,9 @@
+Pillow
+numpy
+protobuf
+pygame
+matplotlib
+future
+opencv-python
+carla==0.9.13
+networkx
